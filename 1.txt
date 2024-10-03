@@ -1,0 +1,14 @@
+<form action="https://maps.app.goo.gl/aMWP5d9QSr1h7nCm8" method="get" target="_blank">
+      <button type="submit">Паехалі!</button>
+
+<form action="https://maps.app.goo.gl/aMWP5d9QSr1h7nCm8" method="get" target="_blank">
+      <button type="submit">Let's go!</button>
+
+<form action="https://maps.app.goo.gl/aMWP5d9QSr1h7nCm8" method="get" target="_blank">
+      <button type="submit">Поехали!</button>
+
+<form action="https://maps.app.goo.gl/aMWP5d9QSr1h7nCm8" method="get" target="_blank">
+      <button type="submit">Gehen!</button>
+
+
+
